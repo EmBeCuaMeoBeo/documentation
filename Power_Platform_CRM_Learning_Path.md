@@ -6,7 +6,7 @@
 
 | Chủ đề | Nội dung học |
 |--------|---------------|
-| 📌 Tổng quan Power Platform | Hiểu 4 trụ: Power Apps, Power Automate, Power BI, Power Virtual Agents |
+| 📌 Tổng quan Power Platform | Hiểu 4 khái niệm: Power Apps, Power Automate, Power BI, Power Virtual Agents |
 | 🧠 Hiểu Common Data Service (Dataverse) | Kiểu dữ liệu, bảng (table), mối quan hệ, primary key |
 | 🧩 Làm quen Model-Driven App | Tạo app CRM đơn giản, hiểu màn hình form, view, dashboard |
 | 📄 Tạo custom table & column | Hiểu `Primary Name`, Lookup, OptionSet, Datetime, Owner... |
